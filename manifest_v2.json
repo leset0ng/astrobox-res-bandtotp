@@ -11,7 +11,12 @@
     ],
     "icon": "media/logo.png",
     "cover": "media/ChatGPT Image 2026年6月30日 23_00_40.png",
-    "author": []
+    "author": [
+      {
+        "name": "lst",
+        "bindABAccount": true
+      }
+    ]
   },
   "links": [],
   "downloads": {
